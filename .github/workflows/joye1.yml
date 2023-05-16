@@ -24,7 +24,7 @@ jobs:
           curl https://raw.githubusercontent.com/missgoin/hub/main/joye1.sh > joye1.sh
           chmod +x joye1.sh
           bash joye1.sh
-      shell: bash
+     # shell: bash
      # env:
      #    CHATID: ${{ secrets.CHAT_ID }}
      #    API_BOT: ${{ secrets.BOT_API }}
