@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Etherious Kernel by SonalSingh18
+kernel.string=SUPER.KERNEL
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
